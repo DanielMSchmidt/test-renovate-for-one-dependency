@@ -1,0 +1,10 @@
+{
+    "enabled": true,
+    "semanticCommits": true,
+    "rebaseStalePrs": true,
+    "packageRules": [{
+        "packageNames": ["@dcos/ui-kit"],
+        "rangeStrategy": "pin",
+        "updateTypes": ["major", "minor", "patch", "pin"]
+    }]
+}
