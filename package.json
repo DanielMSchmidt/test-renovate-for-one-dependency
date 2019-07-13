@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@dcos/ui-kit": "1.13.1",
-    "eslint": "^5.8.0",
+    "eslint": "^6.0.0",
     "prettier": "^1.14.3"
   }
 }
